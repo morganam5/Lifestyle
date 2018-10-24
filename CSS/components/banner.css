@@ -1,0 +1,13 @@
+.banner {
+	background-image: url(../../images/avatar.jpg); 
+	padding: 150px 0px; 
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h2 {
+	font-family: 'Leckerli One', cursive;
+	color: white; margin-bottom: 25px; opacity: 0.9;
+	text-align: left;
+}
+.banner h1 {font-size: 40px; font-family: Cinzel, serif; text-align: left;}
