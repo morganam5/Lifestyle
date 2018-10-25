@@ -33,3 +33,7 @@
 .trip {
 	background-image: url(../../images/travel.JPG);
 }
+
+.trip h1 {
+	color: white;
+}

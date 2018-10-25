@@ -5,6 +5,10 @@
     padding: 10px;
   }
 
+.travel {
+  color: font-family: 'Leckerli One', cursive;
+  color: #ADAEAD;
+}
 
   @media (max-width: 960px) {
     /* For a screen < 960px, this CSS will be read */
