@@ -3,6 +3,7 @@
 @import url("components/button.css");
 @import url("components/banner.css");
 @import url("components/card.css");
+@import url("components/cards.css");
 
 body {font-family: Cinzel, serif;
 size: 14px;
