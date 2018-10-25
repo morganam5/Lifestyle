@@ -20,3 +20,8 @@
 .photoshoot{
 		background-image: url(../../images/portrait.jpg);
 	}
+
+.photoshoot h1 {
+	color: white;
+
+}
