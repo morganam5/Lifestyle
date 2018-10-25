@@ -5,23 +5,26 @@
 	justify-content: space-between;
 	border-style: solid; 
 	border-radius: 5px; 
-	margin-bottom: 10px; 
+	margin-bottom: 20px; 
 	border-color: #FBF1F1;
 	font-family: 'Leckerli One', cursive;
 	color: #ADAEAD;
 }
+
 @media (max-width: 1000px) {
   /* For a screen < 960px, this CSS will be read */
   .card {
     width: 700px;
   }
 }
+
 @media (max-width: 800px) {
   /* For a screen < 720px, this CSS will be read */
   .card {
     width: 500px;
   }
 }
+
 @media (max-width: 600px) {
   /* For a screen < 540px, this CSS will be read */
   .card {
