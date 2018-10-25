@@ -1,5 +1,4 @@
-.banner {
-	background-image: url(../../images/Avatar.jpg); 
+.banner { 
 	padding: 140px 0px; 
 	background-size: cover;
 	background-position: center;
@@ -12,4 +11,11 @@
 }
 .banner h1 {font-size: 40px; 
 	       font-family: Cinzel, serif; 
-	       text-align: left;}
+	       text-align: left;
+	   }
+.homepage {
+	background-image: url(../../images/Avatar.jpg);
+	}
+.photoshoot{
+		background-image: url(../../images/photoshoot.jpg);
+	}

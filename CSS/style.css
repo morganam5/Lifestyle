@@ -9,9 +9,11 @@ size: 14px;
 margin: 0px;
 }
 
-h1, h2, h3 {font-family: Cardo, serif;
-size: 16px; }
+h1, h2, h3 {
+	font-family: Cardo, serif;
+	size: 16px; 
+}
 
-a {text-decoration: none;}
-
-.photoshoot {background-image: url(../../images/photoshoot.jpg);}
+a {
+	text-decoration: none;
+}
