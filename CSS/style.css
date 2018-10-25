@@ -3,8 +3,13 @@
 @import url("components/button.css");
 @import url("components/banner.css");
 @import url("components/card.css");
+
 body {font-family: Cinzel, serif;
-size: 14px}
+size: 14px;
+margin: 0px;
+}
+
 h1, h2, h3 {font-family: Cardo, serif;
 size: 16px; }
+
 a {text-decoration: none;}
