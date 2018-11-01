@@ -10,13 +10,16 @@
 	color: white; margin-bottom: 25px; opacity: 0.9;
 	text-align: left;
 }
+
 .banner h1 {font-size: 40px; 
 	       font-family: Cinzel, serif; 
 	       text-align: left;
 	   }
+
 .homepage {
 	background-image: url(../../images/Avatar.jpg);
 	}
+	
 .photoshoot{
 		background-image: url(../../images/portrait.jpg);
 	}
